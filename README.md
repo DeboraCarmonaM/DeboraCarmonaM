@@ -12,13 +12,6 @@ Meu nome é Debora Carmona, eu sou estudante de Ciência da Computação e desen
 - 👩🏻‍🎓 Universidade Federal do ABC (Ciência e Tecnologia/Ciência da Computação)
 - 📚 Generation Brasil - Bootcamp de Desenvolvimento Web Java Júnior
 
-
-Como me encontrar 👇🏻👇🏻
-
-<a href="https://www.linkedin.com/in/debora-carmona/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
-</a>
-
 <a href="mailto:deboracarmonadani@gmail.com">
   <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
 </a>
@@ -27,7 +20,7 @@ Como me encontrar 👇🏻👇🏻
 
 ## Development Stack
 
-**Aplicação e BD** 
+**Aplicação** 
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
